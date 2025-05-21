@@ -1,0 +1,15 @@
+/Users/joshevans/Desktop/Uni/CS 331/Labs/Lab04/lab-jpa-parolee/lab-jpa-parolee-domain-model/src/main/java/lab/jpa/parolee/domain/CriminalProfile.java
+/Users/joshevans/Desktop/Uni/CS 331/Labs/Lab04/lab-jpa-parolee/lab-jpa-parolee-domain-model/src/main/java/lab/jpa/parolee/jackson/LocalDateDeserializer.java
+/Users/joshevans/Desktop/Uni/CS 331/Labs/Lab04/lab-jpa-parolee/lab-jpa-parolee-domain-model/src/main/java/lab/jpa/parolee/domain/Address.java
+/Users/joshevans/Desktop/Uni/CS 331/Labs/Lab04/lab-jpa-parolee/lab-jpa-parolee-domain-model/src/main/java/lab/jpa/parolee/jackson/LocalTimeSerializer.java
+/Users/joshevans/Desktop/Uni/CS 331/Labs/Lab04/lab-jpa-parolee/lab-jpa-parolee-domain-model/src/main/java/lab/jpa/parolee/domain/Offence.java
+/Users/joshevans/Desktop/Uni/CS 331/Labs/Lab04/lab-jpa-parolee/lab-jpa-parolee-domain-model/src/main/java/lab/jpa/parolee/domain/Gender.java
+/Users/joshevans/Desktop/Uni/CS 331/Labs/Lab04/lab-jpa-parolee/lab-jpa-parolee-domain-model/src/main/java/lab/jpa/parolee/domain/Curfew.java
+/Users/joshevans/Desktop/Uni/CS 331/Labs/Lab04/lab-jpa-parolee/lab-jpa-parolee-domain-model/src/main/java/lab/jpa/parolee/domain/GeoPosition.java
+/Users/joshevans/Desktop/Uni/CS 331/Labs/Lab04/lab-jpa-parolee/lab-jpa-parolee-domain-model/src/main/java/lab/jpa/parolee/jackson/LocalDateTimeSerializer.java
+/Users/joshevans/Desktop/Uni/CS 331/Labs/Lab04/lab-jpa-parolee/lab-jpa-parolee-domain-model/src/main/java/lab/jpa/parolee/jackson/LocalTimeDeserializer.java
+/Users/joshevans/Desktop/Uni/CS 331/Labs/Lab04/lab-jpa-parolee/lab-jpa-parolee-domain-model/src/main/java/lab/jpa/parolee/jackson/LocalDateSerializer.java
+/Users/joshevans/Desktop/Uni/CS 331/Labs/Lab04/lab-jpa-parolee/lab-jpa-parolee-domain-model/src/main/java/lab/jpa/parolee/domain/Conviction.java
+/Users/joshevans/Desktop/Uni/CS 331/Labs/Lab04/lab-jpa-parolee/lab-jpa-parolee-domain-model/src/main/java/lab/jpa/parolee/domain/Parolee.java
+/Users/joshevans/Desktop/Uni/CS 331/Labs/Lab04/lab-jpa-parolee/lab-jpa-parolee-domain-model/src/main/java/lab/jpa/parolee/jackson/LocalDateTimeDeserializer.java
+/Users/joshevans/Desktop/Uni/CS 331/Labs/Lab04/lab-jpa-parolee/lab-jpa-parolee-domain-model/src/main/java/lab/jpa/parolee/domain/Movement.java

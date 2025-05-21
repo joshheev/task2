@@ -1,0 +1,15 @@
+lab/jpa/parolee/domain/Movement.class
+lab/jpa/parolee/domain/Gender.class
+lab/jpa/parolee/jackson/LocalDateTimeDeserializer.class
+lab/jpa/parolee/domain/GeoPosition.class
+lab/jpa/parolee/jackson/LocalDateDeserializer.class
+lab/jpa/parolee/domain/CriminalProfile.class
+lab/jpa/parolee/domain/Conviction.class
+lab/jpa/parolee/domain/Parolee.class
+lab/jpa/parolee/jackson/LocalTimeSerializer.class
+lab/jpa/parolee/jackson/LocalDateTimeSerializer.class
+lab/jpa/parolee/domain/Curfew.class
+lab/jpa/parolee/domain/Address.class
+lab/jpa/parolee/domain/Offence.class
+lab/jpa/parolee/jackson/LocalTimeDeserializer.class
+lab/jpa/parolee/jackson/LocalDateSerializer.class
